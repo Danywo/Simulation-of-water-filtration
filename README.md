@@ -8,4 +8,4 @@
 
 Диаграмма классов: 
 
-![Иллюстрация к проекту]()
+![Иллюстрация к проекту](https://github.com/Danywo/Simulation-of-water-filtration/blob/main/water1.jpg)
